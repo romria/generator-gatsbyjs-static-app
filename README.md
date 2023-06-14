@@ -34,3 +34,8 @@ Navigate to a fresh project directory and run generate command:
 ```bash
 yo gatsbyjs-static-app
 ```
+
+### Links
+* [Rendering options](https://www.gatsbyjs.com/docs/conceptual/rendering-options/)
+* [Using Server-side Rendering (SSR)](https://www.gatsbyjs.com/docs/how-to/rendering-options/using-server-side-rendering/)
+* 
