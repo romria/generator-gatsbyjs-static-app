@@ -11,7 +11,7 @@ You can find more information here:
 * _to be added..._
 
 ### Requirements
-* [Node.js](https://nodejs.org/) v18.16.0 or higher
+* [Node.js](https://nodejs.org/) v18.11.0 or higher
 * [Yeoman](https://yeoman.io) v5.x
 
 ### Installation
